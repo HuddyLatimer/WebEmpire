@@ -1,7 +1,7 @@
 // Data for 100 new sites
 const sites = [
     // Tools
-    { category: 'tools', title: 'Task Manager Pro', description: 'organize tasks with drag-and-drop', url: 'https://task-manager.webempire.com' },
+    { category: 'tools', title: 'Task Manager Pro', description: 'organize tasks with drag-and-drop', url: 'https://huddylatimer.github.io/Task-Manager-Pro/' },
     { category: 'tools', title: 'Pomodoro Timer', description: 'boost productivity with timed sessions', url: 'https://pomodoro-timer.webempire.com' },
     { category: 'tools', title: 'Markdown Editor', description: 'write and preview Markdown', url: 'https://markdown-editor.webempire.com' },
     { category: 'tools', title: 'Color Palette Generator', description: 'create and save color schemes', url: 'https://color-palette.webempire.com' },
